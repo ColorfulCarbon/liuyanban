@@ -14,3 +14,8 @@ export default {
   
 }
 </script>
+<style>
+  input{
+    color:red;
+  }
+</style>
