@@ -19,7 +19,8 @@ export default {
     return {
       items: [
         { message: '123' },
-        { message: '345' }
+        { message: '345' },
+        { message: '346' }
       ]
     }
   },
